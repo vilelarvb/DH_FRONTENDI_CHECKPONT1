@@ -1,0 +1,106 @@
+body{
+    background-color: #fff;
+    background-size: 3000px;
+    background-image: url("https://www.wallpaperimageshd.com/uploads/2020/03/29/rio-de-janeiro-brazil-monument-christ-the-redeemer-top-view.jpg")
+}
+
+.h1p {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: inherit;
+    color: rgb(0, 255, 242);
+    font-size: 80px;
+    position: relative, center;
+    border: 10px;
+    text-align: center;
+}
+
+.h2p {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: inherit;
+    color: rgb(0, 255, 242);
+    font-size: 30px;
+    text-align: center;
+}
+
+.h2s {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: inherit;
+    color: rgb(0, 255, 242);
+    font-size: 30px;
+    text-align: center;
+}
+
+.a {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: inherit;
+    color: rgb(47, 0, 255);
+    font-size: 20px;
+    position: relative, center;
+    border: 10px;
+}
+
+div {
+    font: center;
+    position: relative right 10px;
+}
+
+.video1 {
+    border-width: 10px;
+    border-style: solid;
+    border-color: rgb(0, 255, 242);
+}
+
+.video2 {
+    border-width: 10px;
+    border-style: solid;
+    border-color:rgb(0, 255, 242);
+}
+
+.video3 {
+    border-width: 10px;
+    border-style: solid;
+    border-color:rgb(0, 255, 242);
+}
+
+.img1 {
+    border-width: 10px;
+    border-style: solid;
+    border-color:rgb(0, 255, 242);
+    position: relative left;
+}
+
+.img2 {
+    border-width: 10px;
+    border-style: solid;
+    border-color:rgb(0, 255, 242);
+    position: relative center;
+}
+
+.img3 {
+    border-width: 10px;
+    border-style: solid;
+    border-color:rgb(0, 255, 242);
+    position: relative right;
+}
+
+.img4 {
+    border-width: 10px;
+    border-style: solid;
+    border-color:rgb(0, 255, 242);
+    
+    position: relative right;
+}
+
+.img5 {
+    border-width: 10px;
+    border-style: solid;
+    border-color:rgb(0, 255, 242);
+    position: relative right;
+}
+
+.img6 {
+    border-width: 10px;
+    border-style: solid;
+    border-color:rgb(0, 255, 242);
+    position: relative right;
+}
