@@ -1,13 +1,13 @@
 body{
     background-color: #fff;
     background-size: 3000px;
-    background-image: url("https://www.wallpaperimageshd.com/uploads/2020/03/29/rio-de-janeiro-brazil-monument-christ-the-redeemer-top-view.jpg")
+    background-image: url("https://aquamundopiscinas.com.br/wp-content/uploads/2015/08/FUNDO-BRANCO.jpg")
 }
 
 .h1p {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-style: inherit;
-    color: rgb(0, 255, 242);
+    color: rgb(0, 0, 0);
     font-size: 80px;
     position: relative, center;
     border: 10px;
@@ -17,7 +17,15 @@ body{
 .h2p {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-style: inherit;
-    color: rgb(0, 255, 242);
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+    text-align: center;
+}
+
+.h2p2 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: inherit;
+    color: rgb(0, 0, 0);
     font-size: 30px;
     text-align: center;
 }
@@ -25,7 +33,7 @@ body{
 .h2s {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-style: inherit;
-    color: rgb(0, 255, 242);
+    color: rgb(0, 0, 0);
     font-size: 30px;
     text-align: center;
 }
@@ -35,8 +43,8 @@ body{
     font-style: inherit;
     color: rgb(47, 0, 255);
     font-size: 20px;
-    position: relative, center;
     border: 10px;
+    text-align: center;
 }
 
 div {
@@ -47,60 +55,86 @@ div {
 .video1 {
     border-width: 10px;
     border-style: solid;
-    border-color: rgb(0, 255, 242);
+    border-color: rgb(0, 0, 0);
+    margin: auto;
 }
 
 .video2 {
     border-width: 10px;
     border-style: solid;
-    border-color:rgb(0, 255, 242);
+    border-color:rgb(0, 0, 0);
+    margin: auto
 }
 
 .video3 {
     border-width: 10px;
     border-style: solid;
-    border-color:rgb(0, 255, 242);
+    border-color:rgb(0, 0, 0);
+    margin: auto
 }
 
 .img1 {
     border-width: 10px;
     border-style: solid;
-    border-color:rgb(0, 255, 242);
+    border-color:rgb(0, 0, 0);
+    margin: auto;
     position: relative left;
 }
 
 .img2 {
     border-width: 10px;
     border-style: solid;
-    border-color:rgb(0, 255, 242);
+    border-color:rgb(0, 0, 0);
+    margin: auto; 
     position: relative center;
 }
 
 .img3 {
     border-width: 10px;
     border-style: solid;
-    border-color:rgb(0, 255, 242);
+    border-color:rgb(0, 0, 0);
+    margin: auto;
     position: relative right;
 }
 
 .img4 {
     border-width: 10px;
     border-style: solid;
-    border-color:rgb(0, 255, 242);
-    
+    border-color:rgb(0, 0, 0);
+    margin: auto;
     position: relative right;
 }
 
 .img5 {
     border-width: 10px;
     border-style: solid;
-    border-color:rgb(0, 255, 242);
+    border-color:rgb(0, 0, 0);
+    margin: auto;
     position: relative right;
 }
 
 .img6 {
     border-width: 10px;
     border-style: solid;
-    border-color:rgb(0, 255, 242);
+    border-color:rgb(0, 0, 0);
+    margin: auto;
     position: relative right;
+}
+
+.p1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: inherit;
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+    text-align: justify;
+    border-radius: 20px;
+}
+
+.p2 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: inherit;
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+    text-align: right;
+    border-radius: 20px;
 }
